@@ -1,0 +1,2 @@
+rvm jruby@test --create
+export JRUBY_OPTS="--1.9"
